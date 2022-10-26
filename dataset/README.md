@@ -14,7 +14,10 @@
 * Dataset (Type of Residential Property - Month - 2005 January - 2022 August): https://data.cso.ie/table/HPM09
 
 #### 4. Residential Dwelling Property Transactions
-* Publication:
+* Publication: https://www.cso.ie/en/releasesandpublications/ep/p-rppi/residentialpropertypriceindexaugust2022/additionalindicators/
 * Dataset (County - Dwelling Status - Stamp Duty Event - Type of Buyer - Type of Sale - Month - 2010 January - 2022 August): https://data.cso.ie/table/HPM02
 
 ### Population
+#### 1. Preliminary Actual and Percentage Change in Population
+* Publication: https://www.cso.ie/en/releasesandpublications/ep/p-cpr/censusofpopulation2022-preliminaryresults/
+* Dataset (County - CensusYear 1926 - 2022): https://data.cso.ie/table/FP002
